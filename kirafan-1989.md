@@ -144,7 +144,9 @@ corner, I compared the buildings with Google Maps Street View (Tokyo
 Prefectural Route 437, Chiyoda City). The yellow and orange buildings with
 the large signs matched the photo, and the nearest station on the map is
 Akihabara.
+
 <img width="960" height="540" alt="yandex" src="https://github.com/user-attachments/assets/0b6dbd2c-ec1f-4c57-9a1d-6f7a221b7d7a" />
+
 <img width="960" height="540" alt="streetview" src="https://github.com/user-attachments/assets/f33efb5f-aae7-4191-b03e-d7be7d4388e6" />
 
 
